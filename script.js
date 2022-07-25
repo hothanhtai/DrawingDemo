@@ -1,6 +1,9 @@
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 const changeColor = document.getElementById('color')
+const sizeEL = document.getElementById('size');
+const colorEl = document.getElementById('color');
+const clearEl = document.getElementById('clear');
 
 
 
